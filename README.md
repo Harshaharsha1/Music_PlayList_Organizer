@@ -16,3 +16,8 @@ A full-stack project demonstrating CRUD + Chatbot + API integration.
 
 ## Getting Started
 See frontend/README.md and backend/README.md for install and run steps.
+
+# Contributions 
+#Nandi Prasad
+#Arya Bhushan 
+#Adithya Shenoy 
